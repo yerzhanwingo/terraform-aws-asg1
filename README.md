@@ -1,1 +1,2 @@
-# terraform-aws-asg1
+# terraform-class-combined
+Started Class 2
